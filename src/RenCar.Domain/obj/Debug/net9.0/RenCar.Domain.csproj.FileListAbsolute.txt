@@ -1,0 +1,12 @@
+D:\Projects\RenCar\src\RenCar.Domain\obj\Debug\net9.0\RenCar.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RenCar\src\RenCar.Domain\obj\Debug\net9.0\RenCar.Domain.AssemblyInfoInputs.cache
+D:\Projects\RenCar\src\RenCar.Domain\obj\Debug\net9.0\RenCar.Domain.AssemblyInfo.cs
+D:\Projects\RenCar\src\RenCar.Domain\obj\Debug\net9.0\RenCar.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\RenCar\src\RenCar.Domain\obj\Debug\net9.0\RenCar.Domain.sourcelink.json
+D:\Projects\RenCar\src\RenCar.Domain\bin\Debug\net9.0\RenCar.Domain.deps.json
+D:\Projects\RenCar\src\RenCar.Domain\bin\Debug\net9.0\RenCar.Domain.dll
+D:\Projects\RenCar\src\RenCar.Domain\bin\Debug\net9.0\RenCar.Domain.pdb
+D:\Projects\RenCar\src\RenCar.Domain\obj\Debug\net9.0\RenCar.Domain.dll
+D:\Projects\RenCar\src\RenCar.Domain\obj\Debug\net9.0\refint\RenCar.Domain.dll
+D:\Projects\RenCar\src\RenCar.Domain\obj\Debug\net9.0\RenCar.Domain.pdb
+D:\Projects\RenCar\src\RenCar.Domain\obj\Debug\net9.0\ref\RenCar.Domain.dll

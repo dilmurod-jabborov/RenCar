@@ -1,0 +1,15 @@
+D:\Projects\RenCar\src\RenCar.Service\bin\Debug\net9.0\RenCar.Service.exe
+D:\Projects\RenCar\src\RenCar.Service\bin\Debug\net9.0\RenCar.Service.deps.json
+D:\Projects\RenCar\src\RenCar.Service\bin\Debug\net9.0\RenCar.Service.runtimeconfig.json
+D:\Projects\RenCar\src\RenCar.Service\bin\Debug\net9.0\RenCar.Service.dll
+D:\Projects\RenCar\src\RenCar.Service\bin\Debug\net9.0\RenCar.Service.pdb
+D:\Projects\RenCar\src\RenCar.Service\obj\Debug\net9.0\RenCar.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RenCar\src\RenCar.Service\obj\Debug\net9.0\RenCar.Service.AssemblyInfoInputs.cache
+D:\Projects\RenCar\src\RenCar.Service\obj\Debug\net9.0\RenCar.Service.AssemblyInfo.cs
+D:\Projects\RenCar\src\RenCar.Service\obj\Debug\net9.0\RenCar.Service.csproj.CoreCompileInputs.cache
+D:\Projects\RenCar\src\RenCar.Service\obj\Debug\net9.0\RenCar.Service.sourcelink.json
+D:\Projects\RenCar\src\RenCar.Service\obj\Debug\net9.0\RenCar.Service.dll
+D:\Projects\RenCar\src\RenCar.Service\obj\Debug\net9.0\refint\RenCar.Service.dll
+D:\Projects\RenCar\src\RenCar.Service\obj\Debug\net9.0\RenCar.Service.pdb
+D:\Projects\RenCar\src\RenCar.Service\obj\Debug\net9.0\RenCar.Service.genruntimeconfig.cache
+D:\Projects\RenCar\src\RenCar.Service\obj\Debug\net9.0\ref\RenCar.Service.dll

@@ -1,0 +1,15 @@
+D:\Projects\RenCar\src\RenCar.Telegram.Bot\bin\Debug\net9.0\RenCar.Telegram.Bot.exe
+D:\Projects\RenCar\src\RenCar.Telegram.Bot\bin\Debug\net9.0\RenCar.Telegram.Bot.deps.json
+D:\Projects\RenCar\src\RenCar.Telegram.Bot\bin\Debug\net9.0\RenCar.Telegram.Bot.runtimeconfig.json
+D:\Projects\RenCar\src\RenCar.Telegram.Bot\bin\Debug\net9.0\RenCar.Telegram.Bot.dll
+D:\Projects\RenCar\src\RenCar.Telegram.Bot\bin\Debug\net9.0\RenCar.Telegram.Bot.pdb
+D:\Projects\RenCar\src\RenCar.Telegram.Bot\obj\Debug\net9.0\RenCar.Telegram.Bot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RenCar\src\RenCar.Telegram.Bot\obj\Debug\net9.0\RenCar.Telegram.Bot.AssemblyInfoInputs.cache
+D:\Projects\RenCar\src\RenCar.Telegram.Bot\obj\Debug\net9.0\RenCar.Telegram.Bot.AssemblyInfo.cs
+D:\Projects\RenCar\src\RenCar.Telegram.Bot\obj\Debug\net9.0\RenCar.Telegram.Bot.csproj.CoreCompileInputs.cache
+D:\Projects\RenCar\src\RenCar.Telegram.Bot\obj\Debug\net9.0\RenCar.Telegram.Bot.dll
+D:\Projects\RenCar\src\RenCar.Telegram.Bot\obj\Debug\net9.0\refint\RenCar.Telegram.Bot.dll
+D:\Projects\RenCar\src\RenCar.Telegram.Bot\obj\Debug\net9.0\RenCar.Telegram.Bot.pdb
+D:\Projects\RenCar\src\RenCar.Telegram.Bot\obj\Debug\net9.0\RenCar.Telegram.Bot.genruntimeconfig.cache
+D:\Projects\RenCar\src\RenCar.Telegram.Bot\obj\Debug\net9.0\ref\RenCar.Telegram.Bot.dll
+D:\Projects\RenCar\src\RenCar.Telegram.Bot\obj\Debug\net9.0\RenCar.Telegram.Bot.sourcelink.json

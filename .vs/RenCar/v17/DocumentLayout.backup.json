@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\RenCar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26E525F5-79E1-4AC1-9992-442F69BE22E2}|src\\RenCar.Service\\RenCar.Service.csproj|d:\\projects\\rencar\\src\\rencar.service\\services\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E525F5-79E1-4AC1-9992-442F69BE22E2}|src\\RenCar.Service\\RenCar.Service.csproj|solutionrelative:src\\rencar.service\\services\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E525F5-79E1-4AC1-9992-442F69BE22E2}|src\\RenCar.Service\\RenCar.Service.csproj|d:\\projects\\rencar\\src\\rencar.service\\services\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E525F5-79E1-4AC1-9992-442F69BE22E2}|src\\RenCar.Service\\RenCar.Service.csproj|solutionrelative:src\\rencar.service\\services\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E525F5-79E1-4AC1-9992-442F69BE22E2}|src\\RenCar.Service\\RenCar.Service.csproj|d:\\projects\\rencar\\src\\rencar.service\\services\\rentcompanies\\rentcompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E525F5-79E1-4AC1-9992-442F69BE22E2}|src\\RenCar.Service\\RenCar.Service.csproj|solutionrelative:src\\rencar.service\\services\\rentcompanies\\rentcompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E525F5-79E1-4AC1-9992-442F69BE22E2}|src\\RenCar.Service\\RenCar.Service.csproj|d:\\projects\\rencar\\src\\rencar.service\\services\\locations\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E525F5-79E1-4AC1-9992-442F69BE22E2}|src\\RenCar.Service\\RenCar.Service.csproj|solutionrelative:src\\rencar.service\\services\\locations\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E525F5-79E1-4AC1-9992-442F69BE22E2}|src\\RenCar.Service\\RenCar.Service.csproj|d:\\projects\\rencar\\src\\rencar.service\\services\\rentcompanies\\models\\rentcompanyupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E525F5-79E1-4AC1-9992-442F69BE22E2}|src\\RenCar.Service\\RenCar.Service.csproj|solutionrelative:src\\rencar.service\\services\\rentcompanies\\models\\rentcompanyupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E525F5-79E1-4AC1-9992-442F69BE22E2}|src\\RenCar.Service\\RenCar.Service.csproj|d:\\projects\\rencar\\src\\rencar.service\\services\\rentcompanies\\irentcompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E525F5-79E1-4AC1-9992-442F69BE22E2}|src\\RenCar.Service\\RenCar.Service.csproj|solutionrelative:src\\rencar.service\\services\\rentcompanies\\irentcompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Projects\\RenCar\\src\\RenCar.Service\\Services\\Users\\UserService.cs",
+              "RelativeDocumentMoniker": "src\\RenCar.Service\\Services\\Users\\UserService.cs",
+              "ToolTip": "D:\\Projects\\RenCar\\src\\RenCar.Service\\Services\\Users\\UserService.cs",
+              "RelativeToolTip": "src\\RenCar.Service\\Services\\Users\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:26:55.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Projects\\RenCar\\src\\RenCar.Service\\Services\\Users\\IUserService.cs",
+              "RelativeDocumentMoniker": "src\\RenCar.Service\\Services\\Users\\IUserService.cs",
+              "ToolTip": "D:\\Projects\\RenCar\\src\\RenCar.Service\\Services\\Users\\IUserService.cs",
+              "RelativeToolTip": "src\\RenCar.Service\\Services\\Users\\IUserService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:24:35.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RentCompanyUpdateModel.cs",
+              "DocumentMoniker": "D:\\Projects\\RenCar\\src\\RenCar.Service\\Services\\RentCompanies\\Models\\RentCompanyUpdateModel.cs",
+              "RelativeDocumentMoniker": "src\\RenCar.Service\\Services\\RentCompanies\\Models\\RentCompanyUpdateModel.cs",
+              "ToolTip": "D:\\Projects\\RenCar\\src\\RenCar.Service\\Services\\RentCompanies\\Models\\RentCompanyUpdateModel.cs",
+              "RelativeToolTip": "src\\RenCar.Service\\Services\\RentCompanies\\Models\\RentCompanyUpdateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:10:41.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentCompanyService.cs",
+              "DocumentMoniker": "D:\\Projects\\RenCar\\src\\RenCar.Service\\Services\\RentCompanies\\RentCompanyService.cs",
+              "RelativeDocumentMoniker": "src\\RenCar.Service\\Services\\RentCompanies\\RentCompanyService.cs",
+              "ToolTip": "D:\\Projects\\RenCar\\src\\RenCar.Service\\Services\\RentCompanies\\RentCompanyService.cs",
+              "RelativeToolTip": "src\\RenCar.Service\\Services\\RentCompanies\\RentCompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:55:42.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRentCompanyService.cs",
+              "DocumentMoniker": "D:\\Projects\\RenCar\\src\\RenCar.Service\\Services\\RentCompanies\\IRentCompanyService.cs",
+              "RelativeDocumentMoniker": "src\\RenCar.Service\\Services\\RentCompanies\\IRentCompanyService.cs",
+              "ToolTip": "D:\\Projects\\RenCar\\src\\RenCar.Service\\Services\\RentCompanies\\IRentCompanyService.cs",
+              "RelativeToolTip": "src\\RenCar.Service\\Services\\RentCompanies\\IRentCompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:54:24.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "D:\\Projects\\RenCar\\src\\RenCar.Service\\Services\\Locations\\LocationService.cs",
+              "RelativeDocumentMoniker": "src\\RenCar.Service\\Services\\Locations\\LocationService.cs",
+              "ToolTip": "D:\\Projects\\RenCar\\src\\RenCar.Service\\Services\\Locations\\LocationService.cs",
+              "RelativeToolTip": "src\\RenCar.Service\\Services\\Locations\\LocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:39:36.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
