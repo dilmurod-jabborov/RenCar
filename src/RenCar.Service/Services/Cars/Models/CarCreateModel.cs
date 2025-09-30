@@ -10,7 +10,7 @@ public class CarCreateModel
     public decimal PricePerDay { get; set; }
     public decimal PledgePrice {  get; set; }
     public int PickUpLocationId { get; set; }
-    public List<int> DropOffLocationId {  get; set; }
+    public List<int> DropOffLocationIds {  get; set; }
 
     public int Year { get; set; }
     public int Seats { get; set; }

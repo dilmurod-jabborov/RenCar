@@ -1,10 +1,13 @@
-﻿namespace RenCar.Service.Services.Bookings;
+﻿using RenCar.Service.Services.Bookings.Models;
+
+namespace RenCar.Service.Services.Bookings;
 
 public interface IBookingService
 {
-    Task CreateAsync();
-    Task UpdateAsync();
-    Task DeleteAsync();
-    Task GetAsync();
-    Task GetAllAsync();
+    Task CreateAsync(BookingCreateModel model);
+    Task<bool> PaymentsAsync(decimal totalPrice, BookingCreateModel model);
+    Task UpdateAsync(int id, BookingUpdateModel model);
+    Task CancelBookingAsync(int userId, int bookId);
+    Task<BookingViewModel> GetAsync(int id);
+    Task<List<BookingViewModel>> GetAllAsync(string? search);
 }

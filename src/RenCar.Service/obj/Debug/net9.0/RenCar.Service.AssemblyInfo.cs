@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RenCar.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ae78c1e7d26ce65ed004e0cbeac148954397457")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fed3d2c027c42d04bf8c4273915721e49420584e")]
 [assembly: System.Reflection.AssemblyProductAttribute("RenCar.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RenCar.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

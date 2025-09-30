@@ -13,6 +13,7 @@ public class BookingCreateModel
     public DateTime StartDateTime { get; set; }
     public DateTime EndDateTime { get; set; }
 
+    public PaymentMethod PaymentMethod { get; set; }
     public decimal Amount { get; set; }
     public DateTime PaymentDate { get; set; }
     public PaymentMethod Method { get; set; }

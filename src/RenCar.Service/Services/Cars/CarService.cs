@@ -48,9 +48,9 @@ public class CarService : ICarServcie
 
         await carDetailsRepository.InsertAsync(carDetails);
 
-        if (model.DropOffLocationId != null && model.DropOffLocationId.Any())
+        if (model.DropOffLocationIds != null && model.DropOffLocationIds.Any())
         {
-            foreach (var locationId in model.DropOffLocationId)
+            foreach (var locationId in model.DropOffLocationIds)
             {
                 var carLocation = new CarLocation
                 {

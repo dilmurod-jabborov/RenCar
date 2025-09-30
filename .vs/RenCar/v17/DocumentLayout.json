@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projects\\RenCar\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{360402F0-CAA9-4F29-96FC-8118D24A1E34}|src\\RenCar.DataAccess\\RenCar.DataAccess.csproj|d:\\projects\\rencar\\src\\rencar.dataaccess\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360402F0-CAA9-4F29-96FC-8118D24A1E34}|src\\RenCar.DataAccess\\RenCar.DataAccess.csproj|solutionrelative:src\\rencar.dataaccess\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E525F5-79E1-4AC1-9992-442F69BE22E2}|src\\RenCar.Service\\RenCar.Service.csproj|d:\\projects\\rencar\\src\\rencar.service\\services\\bookings\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E525F5-79E1-4AC1-9992-442F69BE22E2}|src\\RenCar.Service\\RenCar.Service.csproj|solutionrelative:src\\rencar.service\\services\\bookings\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E525F5-79E1-4AC1-9992-442F69BE22E2}|src\\RenCar.Service\\RenCar.Service.csproj|d:\\projects\\rencar\\src\\rencar.service\\services\\cars\\models\\carcreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E525F5-79E1-4AC1-9992-442F69BE22E2}|src\\RenCar.Service\\RenCar.Service.csproj|solutionrelative:src\\rencar.service\\services\\cars\\models\\carcreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\RenCar\\src\\RenCar.DataAccess\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\RenCar.DataAccess\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\Projects\\RenCar\\src\\RenCar.DataAccess\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "src\\RenCar.DataAccess\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wBYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:04:43.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "D:\\Projects\\RenCar\\src\\RenCar.Service\\Services\\Bookings\\BookingService.cs",
+              "RelativeDocumentMoniker": "src\\RenCar.Service\\Services\\Bookings\\BookingService.cs",
+              "ToolTip": "D:\\Projects\\RenCar\\src\\RenCar.Service\\Services\\Bookings\\BookingService.cs",
+              "RelativeToolTip": "src\\RenCar.Service\\Services\\Bookings\\BookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T10:58:53.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarCreateModel.cs",
+              "DocumentMoniker": "D:\\Projects\\RenCar\\src\\RenCar.Service\\Services\\Cars\\Models\\CarCreateModel.cs",
+              "RelativeDocumentMoniker": "src\\RenCar.Service\\Services\\Cars\\Models\\CarCreateModel.cs",
+              "ToolTip": "D:\\Projects\\RenCar\\src\\RenCar.Service\\Services\\Cars\\Models\\CarCreateModel.cs",
+              "RelativeToolTip": "src\\RenCar.Service\\Services\\Cars\\Models\\CarCreateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T10:57:02.486Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -4,5 +4,5 @@ public enum PaymentMethod
 {
     card,
     cash,
-    payme
+    online
 }
